@@ -8,7 +8,7 @@ class Config(object):
     API_ID = int(os.getenv("API_ID", "26164342"))
     API_HASH = os.getenv("API_HASH", "1e6f9af98ffe06f3281a0b537ebf5c39")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5888624647:AAG1Osrq_LgOHmMpV7KI5jYbIkLuGkeVz70")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "IPopcornsearchbot")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "IPopcornsearchv2bot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOJIBu42-RpiBni9GulDwGvgCH7vNzwSMbqkRYa7unV3Pxj4B4HVh1GMDtxi1qDNpg5yL3DtMWCXaKnaker2WTq7yUxIeqh6PS3JwTdgPvvkN-RJeKPJGukRgmipMqP4la7uQvAE2dPbF89HmPzpYe-tbnMNzgjV2Llpx_UhZ4ezYhBdQF7rCRdWF8AE_RbadssmSyU02DhliKKuLgmYfMYeQf80D9SPC19i2qk_FtIPHAMeC1sXmgYPOPp07lHEoB5ZzIwaIS7NOiaADd_6lOnj3_Qb4XaU5B8ROOhhvwaKoqOeXcwt7RHgztIB1ciHrCSyHkVgUaA2s3GjYgCRwJps2Z8k=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001750259696")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "I_Popcorn_Search_Bot")
@@ -33,11 +33,11 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅""" )
     UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001742772657")
     DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://Gandu143:Gandu143@cluster0.bkyz5fj.mongodb.net/?retryWrites=true&w=majority")
-    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001742772657"))
+    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001832271753"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
     UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "@Soren_Corporation")
-    FORCE_SUB = os.getenv("FORCE_SUB", "False")
+    FORCE_SUB = os.getenv("FORCE_SUB", "true")
     AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", 180))
     MDISK_API = os.getenv("MDISK_API", "Qu7jX9V0Sn3q1JHdxjPp")
     VERIFIED_TIME  = int(os.getenv("VERIFIED_TIME", "31"))
@@ -56,7 +56,7 @@ i ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅ
 
 ᴛᴇʀᴀ ʙᴏx - ᴀɢᴀʀ ᴀᴘᴘᴋᴏ ɴᴀʜɪ ᴘᴀᴛᴀ ᴋɪ ᴛᴇʀᴀʙᴏx sᴇ ᴍᴏᴠɪᴇs ᴋᴀɪsᴇ ᴅᴇᴋʜᴇ ᴛᴏ ɴɪᴄʜᴇ ᴅɪʏᴇ ɢᴀʏᴇ ᴛᴇʀᴀ ʙᴏx ʙᴜᴛᴛᴏɴ ᴘᴀʀ ᴄʟɪᴄᴋ ᴋᴀʀᴇ
 
-ʀᴇɢᴀʀᴅs - @CyniteBackup"""
+ʀᴇɢᴀʀᴅs - @Soren_Corporation"""
     ABOUT_MDISK_TEXT = """
 𝗠𝗱𝗶𝘀𝗸 𝗸𝗶 𝗹𝗶𝗻𝗸𝘀 𝗢𝗽𝗲𝗻 𝗔𝗶𝘀𝗲 𝗞𝗮𝗿𝗲👇🔥
 वीडियो प्ले करने में कोई प्रोब्लम अ रही हो तो Mx Player App डाउनलोड करले😊👍
