@@ -7,7 +7,7 @@ import os
 class Config(object):
     API_ID = int(os.getenv("API_ID", "26164342"))
     API_HASH = os.getenv("API_HASH", "1e6f9af98ffe06f3281a0b537ebf5c39")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5799680970:AAFTzOGTluK_NbUszomevbU51Ui_QnXALIQ")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "5888624647:AAG1Osrq_LgOHmMpV7KI5jYbIkLuGkeVz70")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "IPopcornsearchbot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOJIBu42-RpiBni9GulDwGvgCH7vNzwSMbqkRYa7unV3Pxj4B4HVh1GMDtxi1qDNpg5yL3DtMWCXaKnaker2WTq7yUxIeqh6PS3JwTdgPvvkN-RJeKPJGukRgmipMqP4la7uQvAE2dPbF89HmPzpYe-tbnMNzgjV2Llpx_UhZ4ezYhBdQF7rCRdWF8AE_RbadssmSyU02DhliKKuLgmYfMYeQf80D9SPC19i2qk_FtIPHAMeC1sXmgYPOPp07lHEoB5ZzIwaIS7NOiaADd_6lOnj3_Qb4XaU5B8ROOhhvwaKoqOeXcwt7RHgztIB1ciHrCSyHkVgUaA2s3GjYgCRwJps2Z8k=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001750259696")) 
