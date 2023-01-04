@@ -31,7 +31,7 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ.
 
 ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅""" )
-    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001742772657")
+    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "Soren_Corporation")
     DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://Gandu143:Gandu143@cluster0.bkyz5fj.mongodb.net/?retryWrites=true&w=majority")
     LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001832271753"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
