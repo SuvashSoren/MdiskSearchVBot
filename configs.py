@@ -35,7 +35,7 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
     DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://Gandu143:Gandu143@cluster0.bkyz5fj.mongodb.net/?retryWrites=true&w=majority")
     LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001832271753"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
-    BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
+    BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "false")
     UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "@Soren_Corporation")
     FORCE_SUB = os.getenv("FORCE_SUB", "true")
     AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", 180))
@@ -76,7 +76,7 @@ i ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅ
 𝗧𝗲𝗿𝗮𝗕𝗼𝘅 𝗸𝗶 𝗹𝗶𝗻𝗸𝘀 𝗢𝗽𝗲𝗻 𝗔𝗶𝘀𝗲 𝗞𝗮𝗿𝗲👇🔥
 वीडियो प्ले करने में कोई प्रोब्लम अ रही हो तो इक बार रजिस्ट्रेशन कर ले फिर आप बिना एड के विडियो अच्छे से चला पाएंगे थैंक्यू 😊👍
 
-https://terabox.com/s/1QZGvLaoU_VMaSCDT2NNvOQ
+https://terabox.com/s/1VB4TLcOygLQ-NQlGV0QLKA
 
 1) 𝘛𝘦𝘳𝘢𝘣𝘰𝘹 𝘬𝘪 𝘭𝘪𝘯𝘬 𝘱𝘦𝘳 𝘤𝘭𝘪𝘤𝘬 𝘬𝘢𝘳𝘦 𝘶𝘴𝘬𝘦 𝘣𝘢𝘢𝘥 𝘢𝘪𝘴𝘢 𝘱𝘢𝘨𝘦 𝘬𝘩𝘶𝘭𝘦𝘨𝘢.
 
