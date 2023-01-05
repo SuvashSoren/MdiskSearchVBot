@@ -5,8 +5,8 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "26164342"))
-    API_HASH = os.getenv("API_HASH", "1e6f9af98ffe06f3281a0b537ebf5c39")
+    API_ID = int(os.getenv("API_ID", "22952430"))
+    API_HASH = os.getenv("API_HASH", "38d1362519cd97bad6b669ecae2929cd")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5888624647:AAG1Osrq_LgOHmMpV7KI5jYbIkLuGkeVz70")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "IPopcornsearchv2bot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOMABuyoDDSdt9ZF3n3P4kVZzBm_nRcPjIIW5GBat5bSCwnkcO965VYdgT32UnjWKhqXcZIHEqNaMeyJlpS9OTwoNJ8gbTA0U7MsjUDeoKz24aiJl9pxY5mFtYXL-P0HZ2xVfQj9dR3zLvI0GJOQO7GSfZRuFeI9Aj3zKsmTM_3RX1G0KI1BK_uW1kOhx2aQR0Kc4AfrUtqVXNrelbpInVXD-vOnand_sv9RZwhRZRARuUyAFx-0sZGq0CFe0Ho_mJx_jd0yvcVo8lZEboPqznVmFRXgT6IbQ2246xCRiMUkdV99MRxNiFdDVQJtkGyjLxeTMj2O1aECN2F0Lr-zNRaUrn0s=")
