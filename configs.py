@@ -11,7 +11,7 @@ class Config(object):
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "IPopcornsearchv2bot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOMABuyoDDSdt9ZF3n3P4kVZzBm_nRcPjIIW5GBat5bSCwnkcO965VYdgT32UnjWKhqXcZIHEqNaMeyJlpS9OTwoNJ8gbTA0U7MsjUDeoKz24aiJl9pxY5mFtYXL-P0HZ2xVfQj9dR3zLvI0GJOQO7GSfZRuFeI9Aj3zKsmTM_3RX1G0KI1BK_uW1kOhx2aQR0Kc4AfrUtqVXNrelbpInVXD-vOnand_sv9RZwhRZRARuUyAFx-0sZGq0CFe0Ho_mJx_jd0yvcVo8lZEboPqznVmFRXgT6IbQ2246xCRiMUkdV99MRxNiFdDVQJtkGyjLxeTMj2O1aECN2F0Lr-zNRaUrn0s=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001750259696")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "I_Popcorn_Search_Bot")
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "I_Popcorn_SearchX_Bot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "2065355686"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "SubasSoren")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "FILMY_Update_Official")
